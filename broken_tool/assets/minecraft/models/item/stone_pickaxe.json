@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_pickaxe"
+  },
+  "overrides": [
+    {"predicate": {"damage":0.5}, "model": "item/tools/broken_stone_pickaxe"}
+  ]
+}
